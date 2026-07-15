@@ -1,9 +1,13 @@
 # CODTECH-TASK-1
 
 Name : Yashwanth M G
+
 Company : CODTECH IT SOLUTIONS
+
 Domain : Machine learning
+
 Intern ID : CITS2736
+
 Duration : 6 Weeks
 
 OVERVIEW OF MUSHROOM CLASSIFICATION:
